@@ -4,47 +4,82 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cb88170-b71c-47e4-b10c-d000147b8dad" name="Default Changelist" comment="" />
+    <list default="true" id="6d905f24-6f4b-41c3-8cb8-dfc0446991fc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FavoritesManager">
+    <favorites_list name="ev_calculator" />
   </component>
-  <component name="ProjectId" id="1lQrey6z8sKCCDHMUwo4gUjNpjs" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1crlKL4theQmKmbsTbdHxTOEEWV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2cb88170-b71c-47e4-b10c-d000147b8dad" name="Default Changelist" comment="" />
-      <created>1607540255553</created>
+      <changelist id="6d905f24-6f4b-41c3-8cb8-dfc0446991fc" name="Default Changelist" comment="" />
+      <created>1591294527186</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607540255553</updated>
+      <updated>1591294527186</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="640" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608750358728">
+    <state x="512" y="146" key="#Plugins" timestamp="1605292127834">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="640" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608750358728" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1607540701841">
+    <state x="512" y="146" key="#Plugins/0.0.1920.1050@0.0.1920.1050" timestamp="1605292127834" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599942908449">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607540701841" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599942908449" />
+    <state x="485" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605291905209">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="485" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605291905209" />
+    <state x="375" y="36" key="CommitChangelistDialog2" timestamp="1599942827780">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="375" y="36" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1599942827780" />
+    <state width="938" height="167" key="GridCell.Tab.0.bottom" timestamp="1599122806697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1599122806697" />
+    <state width="938" height="167" key="GridCell.Tab.0.center" timestamp="1599122806697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="167" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1599122806697" />
+    <state width="938" height="167" key="GridCell.Tab.0.left" timestamp="1599122806697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="167" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1599122806697" />
+    <state width="938" height="167" key="GridCell.Tab.0.right" timestamp="1599122806697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="167" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1599122806697" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1602440101323">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602440101323" />
   </component>
 </project>
